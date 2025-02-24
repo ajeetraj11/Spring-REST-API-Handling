@@ -45,11 +45,11 @@ public class GreetingService {
     }
     // Put Method to  update the data
     public String putGreetingMessage() {
-        return "Hello Ankit Rajput, this is a PUT request!";
+        return "Hello Ajeet Raj, this is a PUT request!";
     }
 
     // Delete method to delete the data
     public String deleteGreetingMessage() {
-        return "Hello Ankit Rajput, this is a DELETE request!";
+        return "Hello Ajeet Raj, this is a DELETE request!";
     }
 }
